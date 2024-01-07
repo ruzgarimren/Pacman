@@ -1,6 +1,7 @@
 # Pacman
+A nostalgic game experience
 
-## Description
+## Introduction
 
 This Pac-Man Game is an interactive and engaging web-based application developed using JavaScript. It recreates the classic arcade game, allowing players to navigate Pac-Man through a maze, consuming dots and avoiding ghosts. This project not only offers nostalgia but also demonstrates the capabilities of modern web technologies in creating interactive games.
 
